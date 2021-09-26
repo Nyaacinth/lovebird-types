@@ -1,0 +1,8 @@
+{
+  "name": "lovebird-types",
+  "version": "0.1.0",
+  "description": "Type declarations of lovebird, a browser-based debug console for the LÖVE framework",
+  "author": "Nyaacinth",
+  "license": "MIT",
+  "types": "./index.d.ts"
+}
